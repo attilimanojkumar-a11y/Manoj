@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Log Book",
+  "description": "A premium, offline-first vehicle log book and fleet management tracker with smart fuel predictions and detailed logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
